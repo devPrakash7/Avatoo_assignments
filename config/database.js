@@ -2,7 +2,6 @@
 const mongoose = require("mongoose");
 const { MONGODB_URI } = require("../keys/development_key")
 
-
 // mongoDb connnected
 
 mongoose
